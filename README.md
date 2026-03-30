@@ -79,12 +79,12 @@ BillsMinderApp is a mobile application for **personal financial planning and man
 | หน้าจอ / Screen | รูป / Image |
 |-----------------|-------------|
 | Login | ![Login](https://github.com/user-attachments/assets/4be21f7c-2442-4871-81ce-f159b15ea374) |
-| Home |  |
-| Financial Plan |  |
-| Receipt Scan |  |
-| Summary |  |
-| AI ChatBot |  |
-| Notifications |  |
+| Home | ![Home](https://github.com/user-attachments/assets/84ab8dea-b788-478b-9246-75c14cb67a63) |
+| Financial Plan | ![Financial Plan](https://github.com/user-attachments/assets/7f7182cb-ba2c-436c-96c3-48ee90d9c26e) |
+| Receipt Scan | ![Receipt Scan](https://github.com/user-attachments/assets/f95311ee-6764-41ba-bf85-a65a602bb675) |
+| Summary | ![Summary](https://github.com/user-attachments/assets/e27ddd89-f17f-4409-b52f-5f1b4d8c41f4) |
+| AI ChatBot | ![AI ChatBot](https://github.com/user-attachments/assets/451a9dcd-a61b-427e-b63c-c4e4e323fcf3) |
+| Notifications | ![Notifications](https://github.com/user-attachments/assets/0957a63a-eff4-4dec-8974-fb5270553120) |
 
 ---
 
