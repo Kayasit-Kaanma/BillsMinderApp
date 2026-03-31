@@ -72,9 +72,6 @@ BillsMinderApp is a mobile application for **personal financial planning and man
 
 ## 📸 Screenshots
 
-> _เพิ่มภาพหน้าจอของแอปที่นี่_
->
-> _Add app screenshots here_
 
 | หน้าจอ / Screen | รูป / Image |
 |-----------------|-------------|
